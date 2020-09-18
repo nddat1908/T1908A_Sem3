@@ -1,0 +1,1 @@
+D:\Learn\UWP\Practice\Practice\Practice.csproj;x86

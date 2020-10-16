@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Eau Electrique",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce01.jpg",
+    "price": "153.5"
+  },
+  {
+    "id": "2",
+    "name": "Santal 33",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce02.jpg",
+    "price": "435.8"
+  },
+  {
+    "id": "3",
+    "name": "Elie Saab",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce03.jpg",
+    "price": "212"
+  },
+  {
+    "id": "4",
+    "name": "Moschino Toy Boy",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce04.jpg",
+    "price": "121.4"
+  },
+  {
+    "id": "5",
+    "name": "Moschino Toy 2",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce04.jpg",
+    "price": "79.4"
+  },
+  {
+    "id": "6",
+    "name": "Luxury",
+    "img": "https://raw.githubusercontent.com/nddat1908/T1908A_Sem3/master/ASP.NET%20Web%20Form/ImgPractice/pracitce04.jpg",
+    "price": "121.4"
+  }
+]

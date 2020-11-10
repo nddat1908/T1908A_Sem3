@@ -1,0 +1,13 @@
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.exe
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.deps.json
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.runtimeconfig.json
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.runtimeconfig.dev.json
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.dll
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\bin\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.pdb
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.csprojAssemblyReference.cache
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.AssemblyInfoInputs.cache
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.AssemblyInfo.cs
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.csproj.CoreCompileInputs.cache
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.dll
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.pdb
+D:\Learn\EAP\LctTraining\LctTrainingDemoClassLibrary\obj\Debug\netcoreapp3.1\LctTrainingDemoClassLibrary.genruntimeconfig.cache

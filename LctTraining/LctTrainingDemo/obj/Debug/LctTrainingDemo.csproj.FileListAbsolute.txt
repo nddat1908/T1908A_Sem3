@@ -1,0 +1,2 @@
+D:\Learn\EAP\LctTraining\LctTrainingDemo\obj\Debug\LctTrainingDemo.csprojAssemblyReference.cache
+D:\Learn\EAP\LctTraining\LctTrainingDemo\obj\Debug\LctTrainingDemo.csproj.CoreCompileInputs.cache

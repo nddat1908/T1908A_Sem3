@@ -1,0 +1,15 @@
+﻿@*@{
+        ViewData["Title"] = "Home Page";
+    }*@
+
+@model IQueryable<Employee>
+@foreach (var p in Model)
+{
+    <div>
+        <h3>Name : @p.FirstName @p.LastName</h3>
+        <p>Sex : @p.Sex</p>
+        <p>Date of birth : @p.Birthday</p> 
+        <hr />
+    </div>
+}
+
